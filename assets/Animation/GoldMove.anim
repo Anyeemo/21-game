@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GoldMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.31666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            -560,
+            215,
+            0
+          ]
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": [
+            -565,
+            215,
+            0
+          ]
+        },
+        {
+          "frame": 0.31666666666666665,
+          "value": [
+            -555,
+            215,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
